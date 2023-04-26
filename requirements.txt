@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+tensorflow
+keras
+opencv-python-headless
+streamlit
+ffmpeg-python
+Pillow
